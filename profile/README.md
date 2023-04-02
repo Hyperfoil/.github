@@ -8,3 +8,11 @@
   Hyperfoil is a microservice-oriented distributed benchmark framework, accurate results with more flexibility and distributed architecture.
   
   </div>
+  
+ <h3 align="center">Contribute to Horreum open source projects</h3>
+ 
+ - [Hyperfoil](https://github.com/Hyperfoil/Hyperfoil) Microservice-oriented load driver solving the coordinated-omission fallacy
+ - [Horreum](https://github.com/Hyperfoil/Horreum) General-purpose performance results repository
+ - [qDup](https://github.com/Hyperfoil/qDup) qDup allows shell commands to be queued up across multiple servers to coordinate performance tests.
+  
+  
