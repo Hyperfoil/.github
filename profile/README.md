@@ -9,7 +9,7 @@
   
   </div>
   
- <h3 align="center">Contribute to Horreum open source projects</h3>
+ <h4 align="center">Contribute to Hyperfoil open source projects</h4>
  
  - [Hyperfoil](https://github.com/Hyperfoil/Hyperfoil) Microservice-oriented load driver solving the coordinated-omission fallacy
  - [Horreum](https://github.com/Hyperfoil/Horreum) General-purpose performance results repository
