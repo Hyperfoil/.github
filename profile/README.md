@@ -14,5 +14,16 @@
  - [Hyperfoil](https://github.com/Hyperfoil/Hyperfoil) Microservice-oriented load driver solving the coordinated-omission fallacy
  - [Horreum](https://github.com/Hyperfoil/Horreum) General-purpose performance results repository
  - [qDup](https://github.com/Hyperfoil/qDup) qDup allows shell commands to be queued up across multiple servers to coordinate performance tests.
+ 
+  ## Contributors ✨
   
-  
+  <table>
+  <tbody>
+    <tr>     
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/johnaohara"><img src="https://avatars.githubusercontent.com/u/959822?v=4?s=100" width="100px;" alt="John O'Hara"/><br /><sub><b>John O'Hara</b></sub></a><br /><a href="https://github.com/quarkiverse/quarkus-quinoa/commits?author=johnaohara" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/jesperpedersen"><img src="https://avatars.githubusercontent.com/u/229465?v=4" width="100px;" alt="Jesper Pedersen"/><br /><sub><b>Jesper Pedersen</b></sub></a><br /><a href="https://github.com/Hyperfoil/Horreum/commits?author=jesperpedersen" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/shivam-sharma7"><img src="https://avatars.githubusercontent.com/u/91419219?v=4" width="100px;" alt="Shivam Sharma"/><br /><sub><b>Shivam Sharma</b></sub></a><br /><a href="https://github.com/Hyperfoil/Horreum/commits?author=shivam-sharma7" title="Code">💻</a></td>
+    </tr>
+    
+  </tbody>
+</table>
