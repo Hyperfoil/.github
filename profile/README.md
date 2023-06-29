@@ -11,9 +11,11 @@
   
  <h4 align="center">Contribute to Hyperfoil open source projects</h4>
  
- - [Hyperfoil](https://github.com/Hyperfoil/Hyperfoil) Microservice-oriented load driver solving the coordinated-omission fallacy
- - [Horreum](https://github.com/Hyperfoil/Horreum) General-purpose performance results repository
+ - [Hyperfoil](https://github.com/Hyperfoil/Hyperfoil) Microservice-oriented load driver solving the coordinated-omission fallacy.
+ - [Horreum](https://github.com/Hyperfoil/Horreum) General-purpose performance results repository.
+ - [hyperfoil-operator](https://github.com/Hyperfoil/hyperfoil-operator). Operator for installation in Openshift.
  - [qDup](https://github.com/Hyperfoil/qDup) qDup allows shell commands to be queued up across multiple servers to coordinate performance tests.
+ 
  
   ## Contributors ✨
   
