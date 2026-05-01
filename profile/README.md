@@ -11,8 +11,8 @@
   
  <h4 align="center">Contribute to Hyperfoil open source projects</h4>
  
- - [Hyperfoil](https://github.com/Hyperfoil/Hyperfoil) Microservice-oriented load driver solving the coordinated-omission fallacy.
- - [Horreum](https://github.com/Hyperfoil/Horreum) General-purpose performance results repository.
+ - [Hyperfoil](https://hyperfoil.io/) Microservice-oriented load driver solving the coordinated-omission fallacy.
+ - [Horreum](https://horreum.hyperfoil.io/) General-purpose performance results repository.
  - [hyperfoil-operator](https://github.com/Hyperfoil/hyperfoil-operator). Operator for installation in Openshift.
  - [horreum-operator](https://github.com/Hyperfoil/horreum-operator). Operator managing Horreum instance in Openshift.
  - [qDup](https://github.com/Hyperfoil/qDup) qDup allows shell commands to be queued up across multiple servers to coordinate performance tests.
@@ -31,8 +31,24 @@
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/barreiro"><img src="https://avatars.githubusercontent.com/u/856614?v=4" width="100px;" alt="Luis Barreiro"/><br /><sub><b>Luis Barreiro</b></sub></a><br /><a href="https://github.com/Hyperfoil/horreum-operator/commits?author=barreiro" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/whitingjr"><img src="https://avatars.githubusercontent.com/u/708428?v=4" width="100px;" alt="willr3"/><br /><sub><b>Jeremy Whiting</b></sub></a><br /><a href="https://github.com/Hyperfoil/Horreum/commits?author=whitingjr" title="Code">💻</a></td>
         <td align="center" valign="top" width="14.28%"><a href="https://github.com/willr3"><img src="https://avatars.githubusercontent.com/u/1083859?v=4" width="100px;" alt="willr3"/><br /><sub><b>willr3</b></sub></a><br /><a href="https://github.com/Hyperfoil/qDup/commits?author=willr3" title="Code">💻</a></td>
-       <td align="center" valign="top" width="14.28%"><a href="https://github.com/jesperpedersen"><img src="https://avatars.githubusercontent.com/u/229465?v=4" width="100px;" alt="Jesper Pedersen"/><br /><sub><b>Jesper Pedersen</b></sub> 
+    </tr>   
+  </tbody>
+</table>
+
+<br />
+
+  <table>
+  <tbody>
+    <tr>     
+     <td align="center" valign="top" width="14.28%"><a href="https://github.com/jesperpedersen"><img src="https://avatars.githubusercontent.com/u/229465?v=4" width="100px;" alt="Jesper Pedersen"/><br /><sub><b>Jesper Pedersen</b></sub> 
          </a><br /><a href="https://github.com/Hyperfoil/Horreum/commits?author=jesperpedersen" title="Code">💻</a> <a href="#maintenance-jesperpedersen" title="Maintenance">🚧</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/rvansa"><img src="https://avatars.githubusercontent.com/u/2167869?v=4" width="100px;" alt="Radim Vansa"/><br /><sub><b>Radim Vansa</b></sub></a><br /><a href="https://github.com/Hyperfoil/Horreum/commits?author=rvansa" title="Maintenance">💻🚧</a></td>
+       <td align="center" valign="top" width="14.28%"><a href="https://github.com/franz1981"><img src="https://avatars.githubusercontent.com/u/13125299?v=4" width="100px;" alt="Francesco Nigro"/><br /><sub><b>Francesco Nigro</b></sub></a><br /><a href="https://github.com/Hyperfoil/Horreum/commits?author=franz1981" title="Code">💻🚧</a></td>
+       <td align="center" valign="top" width="14.28%"><a href="https://github.com/diegolovison"><img src="https://avatars.githubusercontent.com/u/687311?v=4" width="100px;" alt="Diego Lovison"/><br /><sub><b>Diego Lovison</b></sub> 
+         </a><br /><a href="https://github.com/Hyperfoil/Horreum/commits?author=diegolovison" title="Code"></a> <a href="#maintenance-jesperpedersen" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/zakkak"><img src="https://avatars.githubusercontent.com/u/1435395?v=4" width="100px;" alt="Foivos Zakkak"/><br /><sub><b>Foivos Zakkak</b></sub></a><br /><a href="https://github.com/Hyperfoil/Hyperfoil/commits?author=zakkak" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Arjun-Parmani"><img src="https://avatars.githubusercontent.com/u/90745939?v=4" width="100px;" alt="Arjun-Parmani"/><br /><sub><b>Arjun-Parmani</b></sub></a><br /><a href="https://github.com/Hyperfoil/h5m/commits?author=Arjun-Parmani" title="Code">💻</a></td>
+        <td align="center" valign="top" width="14.28%"><a href="https://github.com/maxandersen"><img src="https://avatars.githubusercontent.com/u/54129?v=4" width="100px;" alt="Max Rydahl Andersen"/><br /><sub><b>Max Rydahl Andersen</b></sub></a><br /><a href="https://github.com/Hyperfoil/jbang-catalog/commits?author=maxandersen" title="Code">💻</a></td>
     </tr>   
   </tbody>
 </table>
